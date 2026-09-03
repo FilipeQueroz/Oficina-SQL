@@ -59,6 +59,7 @@ Tutorial de como baixar os arquivos das aulas e exercícios e realizar a configu
 | 5    | Relacionamento entre tabelas e JOINS      | [📄 Aula 5](./aula5/)  |
 | 6    | Subconsultas e comandos SQL               | [📄 Aula 6](./aula6/) |
 | 7    | Exercícios práticos                       | [📄 Aula 7](./aula7/) |
+| 8    | Projeto prático                           | [📄 Aula 8](./aula8/) |
 
 ## Certificado:
 
