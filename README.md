@@ -52,16 +52,13 @@ Tutorial de como baixar os arquivos das aulas e exercícios e realizar a configu
 
 | Aula | Conteúdo                                  | Material   |
 | ---- | ----------------------------------------- | ---------- |
-| 1    | Introdução a Banco de Dados, SQL e SELECT | 📄 Aula 1(./aula1/)  |
-| 2    | WHERE, LIKE, DISTINCT, TOP e ORDER BY     | 📄 Aula 2  |
-| 3    | INSERT, UPDATE e DELETE                   | 📄 Aula 3  |
-| 4    | Funções de agregação e GROUP BY           | 📄 Aula 4  |
-| 5    | Relacionamento entre tabelas e JOINS      | 📄 Aula 5  |
-| 6    | Subconsultas e comandos SQL               | 📄 Aula 6  |
-| 7    | Exercícios práticos                       | 📄 Aula 7  |
-| 8    | Projeto prático                           | 📄 Aula 8  |
-| 9    | Revisão e resolução de exercícios         | 📄 Aula 9  |
-| 10   | Projeto Final                             | 📄 Aula 10 |
+| 1    | Introdução a Banco de Dados, SQL e SELECT | [📄 Aula 1](./aula1/)   |
+| 2    | WHERE, LIKE, DISTINCT, TOP e ORDER BY     | [📄 Aula 2](./aula2/)  |
+| 3    | INSERT, UPDATE e DELETE                   | [📄 Aula 3](./aula3/)  |
+| 4    | Funções de agregação e GROUP BY           | [📄 Aula 4](./aula4/)  |
+| 5    | Relacionamento entre tabelas e JOINS      | [📄 Aula 5](./aula5/)  |
+| 6    | Subconsultas e comandos SQL               | [📄 Aula 6](./aula6/) |
+| 7    | Exercícios práticos                       | [📄 Aula 7](./aula7/) |
 
 ## Certificado:
 
