@@ -67,12 +67,12 @@ A instituição realizará a emissão do certificado ao aluno que obtiver a freq
 
 ## Contato:
 
-* Quaisquer dúvidas, entrar em contato conosco através dos seguintes e-mails ou através de um chat privado no Teams:
+* Quaisquer dúvidas, entrar em contato conosco através de um chat privado no Teams ou via grupo de Whatsapp:
 
-  * Filipe Mandelli Queroz ([Filipe.queroz@aluno.cps.sp.gov.br](mailto:Filipe.queroz@fatec.sp.gov.br))
-  * Caio Pires Vasconcellos ([caio.vasconcellos@fatec.sp.gov.br](mailto:caio.vasconcellos@fatec.sp.gov.br))
-  * Mateus Augusto da Silva Ernesto ([mateus.ernesto@fatec.sp.gov.br](mailto:mateus.ernesto@fatec.sp.gov.br))
-  * Luan Pascoal do Bem Silva ([luan.silva131@fatec.sp.gov.br](mailto:luan.silva131@fatec.sp.gov.br))
+  * Filipe Mandelli Queroz ([Filipe.queroz@aluno.cps.sp.gov.br](mailto:Filipe.queroz@aluno.cps.sp.gov.br))
+  * Caio Pires Vasconcellos ([caio.vasconcellos@fatec.sp.gov.br](mailto:caio.vasconcellos@aluno.cps.sp.gov.br))
+  * Mateus Augusto da Silva Ernesto ([mateus.ernesto@fatec.sp.gov.br](mailto:mateus.ernesto@aluno.cps.sp.gov.br))
+  * Luan Pascoal do Bem Silva ([luan.silva131@fatec.sp.gov.br](mailto:luan.silva32@aluno.cps.sp.gov.br))
 
 * **CONTATO DOS CRIADORES DO MATERIAL:**
 
