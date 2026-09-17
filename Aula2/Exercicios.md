@@ -61,9 +61,9 @@ Liste os departamentos existentes na tabela `Funcionarios`, sem valores repetido
 
 **Coluna esperada:** `Departamento`.
 
-### 7. Os cinco produtos mais caros
+### 7. Os cinco produtos mais caros ( FUNÇÃO " TOP 5 " ) 
 
-Mostre apenas os cinco produtos com os maiores preços. Exiba a descrição e o preço, do mais caro para o mais barato.
+Mostre apenas os cinco produtos com os maiores preços. Exiba a descrição e o preço, do mais caro para o mais barato. 
 
 **Colunas esperadas:** `Descr` e `Preco`.
 
