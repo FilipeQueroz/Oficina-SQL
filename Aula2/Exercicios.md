@@ -81,11 +81,4 @@ Mostre os produtos cujo preço esteja entre R$ 5,00 e R$ 15,00, inclusive, e que
 
 Liste o nome, a cidade e a região dos clientes que pertencem a `SP`, `MG` ou `RJ`. Ordene primeiro pela região e depois pelo nome.
 
-## Checklist antes de finalizar
-
-- A consulta usa nomes de tabelas e colunas exatamente como estão no banco?
-- Textos foram colocados entre aspas simples?
-- Condições combinadas foram organizadas com parênteses quando necessário?
-- A ordenação está na direção correta (`ASC` ou `DESC`)?
-- Os cálculos receberam aliases claros com `AS`?
 
