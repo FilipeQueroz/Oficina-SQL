@@ -1,4 +1,4 @@
-# Oficina SQL Essencial - Gabarito do Professor
+# Oficina SQL Essencial - Gabarito
 
 ## Aulas 1 e 2 - SQL Server
 
