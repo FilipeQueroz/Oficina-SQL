@@ -88,8 +88,3 @@ ORDER BY Regiao ASC, Nome ASC;
 
 
 ---
-
-## Conteúdos propositalmente não utilizados
-
-Esta lista não cobra `JOIN`, funções de agregação, `GROUP BY`, `HAVING`, subconsultas, `INSERT`, `UPDATE` ou `DELETE`, pois esses assuntos pertencem às aulas seguintes do cronograma.
-
