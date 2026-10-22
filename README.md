@@ -48,19 +48,6 @@ Tutorial de como baixar os arquivos das aulas e exercícios e realizar a configu
 
 [Como baixar os arquivos das aulas e exercícios do workshop SQL Essencial.](https://www.youtube.com/watch?v=jCjeDQikpac)
 
-## Cronograma:
-
-| Aula | Conteúdo                                  | Material   |
-| ---- | ----------------------------------------- | ---------- |
-| 1    | Introdução a Banco de Dados, SQL e SELECT | [📄 Aula 1](./aula1/)   |
-| 2    | WHERE, LIKE, DISTINCT, TOP e ORDER BY     | [📄 Aula 2](./aula2/)  |
-| 3    | INSERT, UPDATE e DELETE                   | [📄 Aula 3](./aula3/)  |
-| 4    | Funções de agregação e GROUP BY           | [📄 Aula 4](./aula4/)  |
-| 5    | Relacionamento entre tabelas e JOINS      | [📄 Aula 5](./aula5/)  |
-| 6    | Subconsultas e comandos SQL               | [📄 Aula 6](./aula6/) |
-| 7    | Exercícios práticos                       | [📄 Aula 7](./aula7/) |
-| 8    | Projeto prático                           | [📄 Aula 8](./aula8/) |
-
 ## Certificado:
 
 A instituição realizará a emissão do certificado ao aluno que obtiver a frequência mínima de **70%**.
