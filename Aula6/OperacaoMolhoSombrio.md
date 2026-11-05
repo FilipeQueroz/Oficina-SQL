@@ -1,18 +1,17 @@
 # OPERAÇÃO MOLHO SOMBRIO — CASO 006
-## Oficina SQL Essencial — Aula 6 | Investigação individual
+## Oficina SQL Essencial — Aula 6 | Investigação
 
-**Dificuldade:** intermediário leve  
-**Duração sugerida:** 30–40 minutos  
-**Formato:** individual  
+ 
+**Duração sugerida:** 30–40 minutos   
 **Ferramenta:** SQL Server (SSMS)  
 **Banco:** `EmpresaBrasil`
 
 > **CASO FICTÍCIO — ALERTA SANITÁRIO**  
 > Após casos graves de intoxicação, a vigilância sanitária suspeita de um dos vários molhos vendidos pela EmpresaBrasil. Os resultados das análises laboratoriais estão no banco de dados, mas ninguém sabe ainda qual produto e qual lote falharam. Sua missão como investigador(a) é consultar o banco de dados, descobrir o lote envolvido e identificar qual funcionário deve ser ouvido primeiro.
 
-## Preparação (feita pelo instrutor)
+## Preparação 
 
-O instrutor executará o banco original `EmpresaBrasil` e o script complementar `06_PREPARACAO_MISTERIO_INDIVIDUAL_V2.sql`. Não é preciso criar tabelas nem inserir dados.
+O investigador executará o banco original `EmpresaBrasil` e o script complementar `06_PREPARACAO_MISTERIO_INDIVIDUAL_V2.sql`. Não é preciso criar tabelas nem inserir dados.
 
 **Tabelas que você poderá usar:**
 
@@ -78,28 +77,4 @@ WHERE ...;
 
 Complete o `WHERE` para selecionar o setor e o período da Missão 4.
 
-### Missão 6 — Seu relatório final (1 ponto)
 
-Responda com base nos resultados das consultas:
-
-1. Qual produto e lote foram envolvidos?
-2. Qual funcionário deve ser ouvido primeiro?
-3. Que registro de horário justifica essa escolha?
-
-**Importante:** estar no setor durante a produção é motivo para investigar, mas **não é prova de culpa**.
-
----
-
-### Bônus opcional — Quantos acessos? (+1 ponto)
-
-Use `COUNT` e `GROUP BY` para descobrir quantos acessos **cada código de funcionário** possui na tabela `AcessosFabrica`, considerando todos os registros.
-
-**Mostre:** `CodFun` e a quantidade, ordenando da maior para a menor.
-
----
-
-## Entrega
-
-Entregue um arquivo `.sql` contendo as consultas das Missões 1 a 5, acompanhado das respostas e do pequeno relatório da Missão 6. O bônus é opcional.
-
-**Pontuação:** 10 pontos + 1 ponto bônus.
