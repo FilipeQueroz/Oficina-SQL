@@ -11,7 +11,7 @@
 
 ## Preparação 
 
-O investigador executará o banco original `EmpresaBrasil` e o script complementar `06_PREPARACAO_MISTERIO_INDIVIDUAL_V2.sql`. Não é preciso criar tabelas nem inserir dados.
+O investigador executará o banco original `EmpresaBrasil` e o script complementar `ScriptMolhoSombrio.sql`. Não é preciso criar tabelas nem inserir dados.
 
 **Tabelas que você poderá usar:**
 
