@@ -6,7 +6,7 @@
 **Ferramenta:** SQL Server (SSMS)  
 **Banco:** `EmpresaBrasil`
 
-> **CASO FICTÍCIO — ALERTA SANITÁRIO**  
+> **CONTEXTO**  
 > Após casos graves de intoxicação, a vigilância sanitária suspeita de um dos vários molhos vendidos pela EmpresaBrasil. Os resultados das análises laboratoriais estão no banco de dados, mas ninguém sabe ainda qual produto e qual lote falharam. Sua missão como investigador(a) é consultar o banco de dados, descobrir o lote envolvido e identificar qual funcionário deve ser ouvido primeiro.
 
 ## Preparação 
