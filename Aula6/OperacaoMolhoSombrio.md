@@ -50,13 +50,10 @@ O lote suspeito foi produzido em **06/02/2024**, entre **20h30 e 21h00**, no set
 
 ### Missão 4 — Quem entrou durante a produção? (2 pontos)
 
-Agora restrinja a consulta anterior: procure os registros do setor **Envase** em que a **entrada** ocorreu entre **20h30 e 21h00 de 06/02/2024**.
-
 **Mostre:** `CodFun`, `Entrada` e `Saida`.
 
 **Anote:** o código do funcionário encontrado.
 
-*Ajuda:* você pode adaptar a consulta da Missão 3, mudando apenas o intervalo de horários.
 
 ### Missão 5 — Qual é o nome do funcionário? (2 pontos)
 
