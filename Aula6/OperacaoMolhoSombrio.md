@@ -1,5 +1,4 @@
 # OPERAÇÃO MOLHO SOMBRIO — CASO 006
-## Oficina SQL Essencial — Aula 6 | Investigação
 
  
 **Duração sugerida:** 30–40 minutos   
