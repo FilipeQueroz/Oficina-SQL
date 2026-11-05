@@ -1,10 +1,6 @@
 USE EmpresaBrasil;
 GO
 
--- CASO FICTICIO: complemento para a Aula 6.
--- Execute APOS Script-EMPRESA.sql. Preserva os produtos originais.
--- Adiciona quatro molhos e duas tabelas para a investigacao.
-
 IF OBJECT_ID('dbo.AcessosFabrica', 'U') IS NOT NULL DROP TABLE dbo.AcessosFabrica;
 IF OBJECT_ID('dbo.LotesInvestigados', 'U') IS NOT NULL DROP TABLE dbo.LotesInvestigados;
 GO
@@ -80,5 +76,4 @@ VALUES
 (9, 3, 'Envase', '2024-02-07T19:25:00', '2024-02-07T19:35:00');
 GO
 
-SELECT CodProd, Descr FROM Produtos WHERE Descr LIKE '%Molho%' ORDER BY CodProd;
-SELECT CodLote, CodProd, ResultadoAnalise FROM LotesInvestigados ORDER BY CodLote;
+
