@@ -1,7 +1,6 @@
 # OPERAÇÃO MOLHO SOMBRIO — CASO 006
 
- 
-**Duração sugerida:** 30–40 minutos   
+   
 **Ferramenta:** SQL Server (SSMS)  
 **Banco:** `EmpresaBrasil`
 
