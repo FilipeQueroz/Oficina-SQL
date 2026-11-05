@@ -37,7 +37,7 @@ WHERE Setor = 'Envase'
 ```
 **Resposta:** funcionário 3, entrada 20h40, saída 20h52.
 
-**Nota pedagógica:** este quiz simplifica o problema, pedindo apenas entradas ocorridas dentro do intervalo. Não cobra a lógica mais avançada de sobreposição de dois intervalos.
+
 
 ## Missão 5 (2 pontos)
 ```sql
