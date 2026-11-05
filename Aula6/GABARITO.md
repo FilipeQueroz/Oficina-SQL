@@ -49,24 +49,5 @@ WHERE A.Setor = 'Envase'
 ```
 **Resposta prevista para a versão do `EmpresaBrasil` usada na elaboração:** José Oliveira, estoquista, entrada às 20h40. Se o banco original for de outra versão, valide o nome pelo `CodFun = 3`.
 
-## Missão 6 (1 ponto)
 
-Modelo de resposta: “O produto investigado é Molho de Pimenta 150ml, código 9, e o lote adulterado é o 502. O funcionário identificado pelo código 3 (José Oliveira no banco de referência) deve ser ouvido primeiro, pois entrou no setor Envase às 20h40 e saiu às 20h52, durante a produção do lote, das 20h30 às 21h00. Isso indica oportunidade de acesso, mas não comprova adulteração.”
 
-## Bônus (+1 ponto)
-```sql
-SELECT CodFun, COUNT(*) AS TotalAcessos
-FROM AcessosFabrica
-GROUP BY CodFun
-ORDER BY TotalAcessos DESC;
-```
-**Resposta:** funcionário 3 possui 3 registros (acessos 1, 4 e 9); funcionário 9 possui 2 (acessos 2 e 7); códigos 4, 5, 10 e 11 possuem 1 cada.
-
-## Aplicação individual (35 minutos)
-- 0–5 min: contextualização e leitura das tabelas.
-- 5–15 min: Missões 1 e 2.
-- 15–25 min: Missões 3 e 4.
-- 25–32 min: Missão 5.
-- 32–35 min: relatório conclusivo e correção (bônus para quem terminar antes).
-
-**Critério de correção:** aceitar consultas equivalentes que retornem os dados pedidos. Os alunos não precisam demonstrar culpabilidade; a hipótese deve estar sustentada pelas evidências do banco.
